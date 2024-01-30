@@ -36,3 +36,14 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 .DS_Store
 .idea/
+
+# ---- Section1 start --------------------
+section1/.idea/
+section1/springsecuritybasic/.mvn/
+section1/springsecuritybasic/target/
+section1/springsecuritybasic/mvnw
+section1/springsecuritybasic/mvnw.cmd
+section1/springsecuritybasic/HELP.md
+# ---- Section1 end ----------------------
+
+
