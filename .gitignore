@@ -46,4 +46,13 @@ section1/springsecuritybasic/mvnw.cmd
 section1/springsecuritybasic/HELP.md
 # ---- Section1 end ----------------------
 
+# ---- Section2 start --------------------
+section2/.idea/
+section2/springsecsection2/.mvn/
+section2/springsecsection2/target/
+section2/springsecsection2/mvnw
+section2/springsecsection2/mvnw.cmd
+section2/springsecsection2/HELP.md
+# ---- Section2 end ----------------------
+
 
