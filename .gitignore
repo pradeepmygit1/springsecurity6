@@ -55,4 +55,13 @@ section2/springsecsection2/mvnw.cmd
 section2/springsecsection2/HELP.md
 # ---- Section2 end ----------------------
 
+# ---- Section3 start --------------------
+section3/.idea/
+section3/springsecsection3/.mvn/
+section3/springsecsection3/target/
+section3/springsecsection3/mvnw
+section3/springsecsection3/mvnw.cmd
+section3/springsecsection3/HELP.md
+# ---- Section3 end ----------------------
+
 
